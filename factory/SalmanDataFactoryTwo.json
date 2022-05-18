@@ -1,0 +1,9 @@
+{
+	"name": "SalmanDataFactoryTwo",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4c9cf5c2-b5b1-446a-8595-90130d73d242",
+		"tenantId": "09f5d405-1970-4713-97a4-36f7b0f8d5bd"
+	}
+}
